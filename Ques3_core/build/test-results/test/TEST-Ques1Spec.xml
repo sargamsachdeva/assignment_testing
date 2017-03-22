@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ques1Spec" tests="1" skipped="0" failures="1" errors="0" timestamp="2017-03-21T09:54:55" hostname="sargam-sachdeva" time="0.103">
+  <properties/>
+  <testcase name="countOccurrences" classname="Ques1Spec" time="0.103">
+    <failure message="Condition not satisfied:&#10;&#10;result == 5&#10;|      |&#10;4      false&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+result == 5
+|      |
+4      false
+
+	at Ques1Spec.countOccurrences(Ques3Spec.groovy:28)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

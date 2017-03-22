@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BankSpec" tests="3" skipped="0" failures="1" errors="0" timestamp="2017-03-22T09:15:20" hostname="sargam-sachdeva" time="0.11">
+  <properties/>
+  <testcase name="printDetailsSBI" classname="BankSpec" time="0.1">
+    <failure message="Condition not satisfied:&#10;&#10;a == [7,6]&#10;| |&#10;| false&#10;[17, 6]&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+a == [7,6]
+| |
+| false
+[17, 6]
+
+	at BankSpec.printDetailsSBI(BankSpec.groovy:25)
+</failure>
+  </testcase>
+  <testcase name="printDetailsBOI" classname="BankSpec" time="0.009"/>
+  <testcase name="printDetailsICICI" classname="BankSpec" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

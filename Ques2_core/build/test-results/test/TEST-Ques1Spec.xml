@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ques1Spec" tests="1" skipped="0" failures="1" errors="0" timestamp="2017-03-21T09:37:49" hostname="sargam-sachdeva" time="0.097">
+  <properties/>
+  <testcase name="findDuplicateWords" classname="Ques1Spec" time="0.097">
+    <failure message="Condition not satisfied:&#10;&#10;result == &quot;ah&quot;&#10;|      |&#10;a      false&#10;       1 difference (50% similarity)&#10;       a(-)&#10;       a(h)&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+result == &quot;ah&quot;
+|      |
+a      false
+       1 difference (50% similarity)
+       a(-)
+       a(h)
+
+	at Ques1Spec.findDuplicateWords(Ques2Spec.groovy:28)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

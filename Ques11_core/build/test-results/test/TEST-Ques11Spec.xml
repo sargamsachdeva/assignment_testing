@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ques11Spec" tests="4" skipped="3" failures="0" errors="0" timestamp="2017-03-21T17:20:07" hostname="sargam-sachdeva" time="0.043">
+  <properties/>
+  <testcase name="calcSum" classname="Ques11Spec" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="calcMultiply" classname="Ques11Spec" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="concatString" classname="Ques11Spec" time="0.042"/>
+  <testcase name="concat" classname="Ques11Spec" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

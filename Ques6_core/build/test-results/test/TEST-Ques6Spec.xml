@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ques6Spec" tests="1" skipped="0" failures="1" errors="0" timestamp="2017-03-21T18:15:01" hostname="sargam-sachdeva" time="0.116">
+  <properties/>
+  <testcase name="oddOne" classname="Ques6Spec" time="0.116">
+    <failure message="Condition not satisfied:&#10;&#10;sample.oddOne(a1) == expectedResult&#10;|      |      |   |  |&#10;|      1      |   |  2&#10;Ques6@35341255|   false&#10;              [3, 2, 2, 1, 3]&#10;" type="org.spockframework.runtime.SpockComparisonFailure">Condition not satisfied:
+
+sample.oddOne(a1) == expectedResult
+|      |      |   |  |
+|      1      |   |  2
+Ques6@35341255|   false
+              [3, 2, 2, 1, 3]
+
+	at Ques6Spec.oddOne(Ques6Spec.groovy:17)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

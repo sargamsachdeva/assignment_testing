@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ques9_core.iml" filepath="$PROJECT_DIR$/.idea/modules/Ques9_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ques9_core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Ques9_core_main.iml" group="Ques9_core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ques9_core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Ques9_core_test.iml" group="Ques9_core" />
+    </modules>
+  </component>
+</project>

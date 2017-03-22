@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ques8Spec" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-03-21T15:52:27" hostname="sargam-sachdeva" time="0.059">
+  <properties/>
+  <testcase name="reverseAndRemove" classname="Ques8Spec" time="0.059"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
